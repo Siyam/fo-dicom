@@ -67,3 +67,4 @@ Platform/Mono/Dictionaries/*.xml.gz
 !.vscode/launch.json
 !.vscode/extensions.json
 /Platform/Mono/.vs/DICOM.Mono
+/Platform/NetCore/.vs/DICOM.NetCore/v16/TestStore/0
